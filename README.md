@@ -15,7 +15,7 @@
 - 🎨 Visual embeds with intuitive emojis
 - ⚡ Quick and Spanish answers
 
-## 🚀 Instalación rápida
+## 🚀 Installation
 
 1. **Clone the repository**.
 ```bash
