@@ -19,7 +19,7 @@
 
 1. **Clone the repository**.
 ```bash
-git clone https://github.com/tu-usuario/tu-repo.git
+git clone https://github.com/Pastiuwu/weatherbot
 cd your repo
 ```
 2. **Install dependencies**.
