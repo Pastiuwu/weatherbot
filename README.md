@@ -36,9 +36,10 @@ node index.js
 ```
 
 ## 🛠️ Available commands
-Command Description Example
-/clima	Displays the current weather	/clima city: Madrid
-/clima	With optional country	/clima city: Buenos Aires country: AR
+| Command | Description | Parameters | Example |
+|---------|-------------|------------|---------|
+| `/clima` | Displays the current weather | <ul><li>`city`: city (required)</li><li>`country`: country (optional)</li></ul> | `/clima city: Madrid country: ES` |
+
 
 ## 🏆 Verified to earn the “Active Developer Badge”.
 [![Badge-Confirm.png](https://i.postimg.cc/tTbK80FJ/Badge-Confirm.png)](https://postimg.cc/5HPKFR7W)
